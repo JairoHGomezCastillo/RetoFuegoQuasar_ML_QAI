@@ -1,0 +1,174 @@
+
+2022-08-04T19:29:40,396 [Test worker] INFO  (TopSecretSplitTest.java:21) - Inicalizando Setup
+2022-08-04T19:29:40,743 [Test worker] INFO  (TopSecretSplitTest.java:26) - Setup Exitoso
+2022-08-04T19:29:40,748 [Test worker] INFO  (TopSecretSplitTest.java:31) - Enviando peticion para obtener ubicacion y mensaje de la nave de la fuerza
+2022-08-04T19:29:41,958 [Test worker] INFO  (TopSecretSplitTest.java:40) - Fin obtener ubicacion y mensaje de la nave de la fuerza
+2022-08-04T19:38:42,083 [Test worker] INFO  (TopSecretSplitTest.java:21) - Inicalizando Setup
+2022-08-04T19:38:42,459 [Test worker] INFO  (TopSecretSplitTest.java:26) - Setup Exitoso
+2022-08-04T19:38:42,465 [Test worker] INFO  (TopSecretSplitTest.java:31) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T19:40:10,821 [Test worker] INFO  (TopSecretSplitTest.java:21) - Inicalizando Setup
+2022-08-04T19:40:11,169 [Test worker] INFO  (TopSecretSplitTest.java:26) - Setup Exitoso
+2022-08-04T19:40:11,175 [Test worker] INFO  (TopSecretSplitTest.java:31) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T19:40:39,199 [Test worker] INFO  (TopSecretSplitTest.java:21) - Inicalizando Setup
+2022-08-04T19:40:39,556 [Test worker] INFO  (TopSecretSplitTest.java:26) - Setup Exitoso
+2022-08-04T19:40:39,561 [Test worker] INFO  (TopSecretSplitTest.java:31) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T19:41:05,321 [Test worker] INFO  (TopSecretSplitTest.java:21) - Inicalizando Setup
+2022-08-04T19:41:05,719 [Test worker] INFO  (TopSecretSplitTest.java:26) - Setup Exitoso
+2022-08-04T19:41:05,725 [Test worker] INFO  (TopSecretSplitTest.java:31) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T19:42:48,326 [Test worker] INFO  (TopSecretSplitTest.java:21) - Inicalizando Setup
+2022-08-04T19:42:48,687 [Test worker] INFO  (TopSecretSplitTest.java:26) - Setup Exitoso
+2022-08-04T19:42:48,692 [Test worker] INFO  (TopSecretSplitTest.java:31) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T19:44:30,834 [Test worker] INFO  (TopSecretSplitTest.java:21) - Inicalizando Setup
+2022-08-04T19:44:31,184 [Test worker] INFO  (TopSecretSplitTest.java:26) - Setup Exitoso
+2022-08-04T19:44:31,190 [Test worker] INFO  (TopSecretSplitTest.java:31) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T19:44:32,400 [Test worker] INFO  (TopSecretSplitTest.java:43) - Fin obtener ubicacion y mensaje de la nave
+2022-08-04T19:45:34,261 [Test worker] INFO  (TopSecretSplitTest.java:21) - Inicalizando Setup
+2022-08-04T19:45:34,612 [Test worker] INFO  (TopSecretSplitTest.java:26) - Setup Exitoso
+2022-08-04T19:45:34,617 [Test worker] INFO  (TopSecretSplitTest.java:31) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T19:45:35,804 [Test worker] INFO  (TopSecretSplitTest.java:43) - Fin obtener ubicacion y mensaje de la nave
+2022-08-04T19:49:25,186 [Test worker] INFO  (TopSecretSplitTest.java:21) - Inicalizando Setup
+2022-08-04T19:49:25,534 [Test worker] INFO  (TopSecretSplitTest.java:26) - Setup Exitoso
+2022-08-04T19:49:25,539 [Test worker] INFO  (TopSecretSplitTest.java:31) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T19:51:53,055 [Test worker] INFO  (TopSecretSplitTest.java:21) - Inicalizando Setup
+2022-08-04T19:51:53,419 [Test worker] INFO  (TopSecretSplitTest.java:26) - Setup Exitoso
+2022-08-04T19:51:53,425 [Test worker] INFO  (TopSecretSplitTest.java:31) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T19:53:19,744 [Test worker] INFO  (TopSecretSplitTest.java:21) - Inicalizando Setup
+2022-08-04T19:53:20,097 [Test worker] INFO  (TopSecretSplitTest.java:26) - Setup Exitoso
+2022-08-04T19:53:20,103 [Test worker] INFO  (TopSecretSplitTest.java:31) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T19:55:55,430 [Test worker] INFO  (TopSecretSplitTest.java:21) - Inicalizando Setup
+2022-08-04T19:55:55,772 [Test worker] INFO  (TopSecretSplitTest.java:26) - Setup Exitoso
+2022-08-04T19:55:55,778 [Test worker] INFO  (TopSecretSplitTest.java:31) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T19:57:31,668 [Test worker] INFO  (TopSecretSplitTest.java:21) - Inicalizando Setup
+2022-08-04T19:57:32,021 [Test worker] INFO  (TopSecretSplitTest.java:26) - Setup Exitoso
+2022-08-04T19:57:32,026 [Test worker] INFO  (TopSecretSplitTest.java:31) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T19:59:06,081 [Test worker] INFO  (TopSecretSplitTest.java:21) - Inicalizando Setup
+2022-08-04T19:59:06,433 [Test worker] INFO  (TopSecretSplitTest.java:26) - Setup Exitoso
+2022-08-04T19:59:06,438 [Test worker] INFO  (TopSecretSplitTest.java:31) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T20:00:07,199 [Test worker] INFO  (TopSecretSplitTest.java:21) - Inicalizando Setup
+2022-08-04T20:00:07,561 [Test worker] INFO  (TopSecretSplitTest.java:26) - Setup Exitoso
+2022-08-04T20:00:07,566 [Test worker] INFO  (TopSecretSplitTest.java:31) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T20:01:56,926 [Test worker] INFO  (TopSecretSplitTest.java:21) - Inicalizando Setup
+2022-08-04T20:01:57,295 [Test worker] INFO  (TopSecretSplitTest.java:26) - Setup Exitoso
+2022-08-04T20:01:57,302 [Test worker] INFO  (TopSecretSplitTest.java:31) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T20:01:58,392 [Test worker] INFO  (TopSecretSplitTest.java:42) - Fin obtener ubicacion y mensaje de la nave
+2022-08-04T20:03:27,254 [Test worker] INFO  (TopSecretSplitTest.java:21) - Inicalizando Setup
+2022-08-04T20:03:27,602 [Test worker] INFO  (TopSecretSplitTest.java:26) - Setup Exitoso
+2022-08-04T20:03:27,608 [Test worker] INFO  (TopSecretSplitTest.java:31) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T20:03:48,319 [Test worker] INFO  (TopSecretSplitTest.java:21) - Inicalizando Setup
+2022-08-04T20:03:48,662 [Test worker] INFO  (TopSecretSplitTest.java:26) - Setup Exitoso
+2022-08-04T20:03:48,674 [Test worker] INFO  (TopSecretSplitTest.java:31) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T20:05:20,729 [Test worker] INFO  (TopSecretSplitTest.java:21) - Inicalizando Setup
+2022-08-04T20:05:21,074 [Test worker] INFO  (TopSecretSplitTest.java:26) - Setup Exitoso
+2022-08-04T20:05:21,087 [Test worker] INFO  (TopSecretSplitTest.java:31) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T20:06:49,782 [Test worker] INFO  (TopSecretSplitTest.java:21) - Inicalizando Setup
+2022-08-04T20:06:50,135 [Test worker] INFO  (TopSecretSplitTest.java:26) - Setup Exitoso
+2022-08-04T20:06:50,141 [Test worker] INFO  (TopSecretSplitTest.java:31) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T20:06:51,522 [Test worker] INFO  (TopSecretSplitTest.java:40) - Respuesta: io.restassured.internal.RestAssuredResponseImpl@db99785
+2022-08-04T20:06:51,522 [Test worker] INFO  (TopSecretSplitTest.java:43) - Fin obtener ubicacion y mensaje de la nave
+2022-08-04T20:07:14,129 [Test worker] INFO  (TopSecretSplitTest.java:21) - Inicalizando Setup
+2022-08-04T20:07:14,487 [Test worker] INFO  (TopSecretSplitTest.java:26) - Setup Exitoso
+2022-08-04T20:07:14,493 [Test worker] INFO  (TopSecretSplitTest.java:31) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T20:07:15,720 [Test worker] INFO  (TopSecretSplitTest.java:40) - Respuesta: io.restassured.internal.RestAssuredResponseImpl@db99785
+2022-08-04T20:08:13,330 [Test worker] INFO  (TopSecretSplitTest.java:21) - Inicalizando Setup
+2022-08-04T20:08:13,672 [Test worker] INFO  (TopSecretSplitTest.java:26) - Setup Exitoso
+2022-08-04T20:08:13,685 [Test worker] INFO  (TopSecretSplitTest.java:31) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T20:08:14,905 [Test worker] INFO  (TopSecretSplitTest.java:40) - Respuesta: io.restassured.internal.RestAssuredResponseImpl@70716259
+2022-08-04T20:09:39,579 [Test worker] INFO  (TopSecretSplitTest.java:21) - Inicalizando Setup
+2022-08-04T20:09:39,924 [Test worker] INFO  (TopSecretSplitTest.java:26) - Setup Exitoso
+2022-08-04T20:09:39,930 [Test worker] INFO  (TopSecretSplitTest.java:31) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T20:09:41,211 [Test worker] INFO  (TopSecretSplitTest.java:40) - Respuesta: io.restassured.internal.RestAssuredResponseImpl@70716259
+2022-08-04T20:16:17,531 [Test worker] INFO  (TopSecretSplitTest.java:21) - Inicalizando Setup
+2022-08-04T20:16:17,885 [Test worker] INFO  (TopSecretSplitTest.java:26) - Setup Exitoso
+2022-08-04T20:16:17,891 [Test worker] INFO  (TopSecretSplitTest.java:31) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T20:16:19,164 [Test worker] INFO  (TopSecretSplitTest.java:40) - Respuesta: io.restassured.internal.RestAssuredResponseImpl@70716259
+2022-08-04T20:27:15,413 [Test worker] INFO  (TopSecretSplitTest.java:22) - Inicalizando Setup
+2022-08-04T20:27:15,757 [Test worker] INFO  (TopSecretSplitTest.java:27) - Setup Exitoso
+2022-08-04T20:27:15,763 [Test worker] INFO  (TopSecretSplitTest.java:32) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T20:27:16,991 [Test worker] INFO  (TopSecretSplitTest.java:41) - Respuesta: io.restassured.internal.RestAssuredResponseImpl@db99785
+2022-08-04T20:29:26,761 [Test worker] INFO  (TopSecretSplitTest.java:22) - Inicalizando Setup
+2022-08-04T20:29:27,118 [Test worker] INFO  (TopSecretSplitTest.java:27) - Setup Exitoso
+2022-08-04T20:29:27,124 [Test worker] INFO  (TopSecretSplitTest.java:32) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T20:29:28,378 [Test worker] INFO  (TopSecretSplitTest.java:41) - Respuesta: io.restassured.internal.RestAssuredResponseImpl@db99785
+2022-08-04T20:29:28,379 [Test worker] INFO  (TopSecretSplitTest.java:50) - Respuesta Esperada: [No hay suficiente informaci贸n para obtener la posici贸n de la nave y su mensaje.]
+2022-08-04T20:29:28,379 [Test worker] INFO  (TopSecretSplitTest.java:51) - Respuesta EsperadaUtf: [No hay suficiente informaci贸n para obtener la posici贸n de la nave y su mensaje.]
+2022-08-04T20:29:28,379 [Test worker] INFO  (TopSecretSplitTest.java:58) - Fin obtener ubicacion y mensaje de la nave
+2022-08-04T20:34:41,994 [Test worker] INFO  (TopSecretSplitTest.java:22) - Inicalizando Setup
+2022-08-04T20:34:42,339 [Test worker] INFO  (TopSecretSplitTest.java:27) - Setup Exitoso
+2022-08-04T20:34:42,345 [Test worker] INFO  (TopSecretSplitTest.java:32) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T20:34:43,720 [Test worker] INFO  (TopSecretSplitTest.java:41) - Respuesta: io.restassured.internal.RestAssuredResponseImpl@70716259
+2022-08-04T20:34:43,721 [Test worker] INFO  (TopSecretSplitTest.java:50) - Respuesta Esperada: [No hay suficiente informaci贸n para obtener la posici贸n de la nave y su mensaje.]
+2022-08-04T20:34:43,721 [Test worker] INFO  (TopSecretSplitTest.java:51) - Respuesta EsperadaUtf: [No hay suficiente informaci贸n para obtener la posici贸n de la nave y su mensaje.]
+2022-08-04T20:34:43,722 [Test worker] INFO  (TopSecretSplitTest.java:58) - Fin obtener ubicacion y mensaje de la nave
+2022-08-04T20:37:50,855 [Test worker] INFO  (TopSecretSplitTest.java:22) - Inicalizando Setup
+2022-08-04T20:37:51,207 [Test worker] INFO  (TopSecretSplitTest.java:27) - Setup Exitoso
+2022-08-04T20:37:51,213 [Test worker] INFO  (TopSecretSplitTest.java:32) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T20:37:52,413 [Test worker] INFO  (TopSecretSplitTest.java:48) - Respuesta Esperada: [No hay suficiente informaci贸n para obtener la posici贸n de la nave y su mensaje.]
+2022-08-04T20:37:52,413 [Test worker] INFO  (TopSecretSplitTest.java:49) - Respuesta EsperadaUtf: io.restassured.internal.RestAssuredResponseImpl@70716259
+2022-08-04T20:37:52,414 [Test worker] INFO  (TopSecretSplitTest.java:56) - Fin obtener ubicacion y mensaje de la nave
+2022-08-04T20:38:36,428 [Test worker] INFO  (TopSecretSplitTest.java:22) - Inicalizando Setup
+2022-08-04T20:38:36,778 [Test worker] INFO  (TopSecretSplitTest.java:27) - Setup Exitoso
+2022-08-04T20:38:36,784 [Test worker] INFO  (TopSecretSplitTest.java:32) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T20:38:37,963 [Test worker] INFO  (TopSecretSplitTest.java:48) - Respuesta Esperada: [No hay suficiente informaci贸n para obtener la posici贸n de la nave y su mensaje.]
+2022-08-04T20:38:37,963 [Test worker] INFO  (TopSecretSplitTest.java:49) - Respuesta EsperadaUtf: io.restassured.internal.RestAssuredResponseImpl@70716259
+2022-08-04T20:38:37,964 [Test worker] INFO  (TopSecretSplitTest.java:56) - Fin obtener ubicacion y mensaje de la nave
+2022-08-04T20:40:27,710 [Test worker] INFO  (TopSecretSplitTest.java:22) - Inicalizando Setup
+2022-08-04T20:40:28,062 [Test worker] INFO  (TopSecretSplitTest.java:27) - Setup Exitoso
+2022-08-04T20:40:28,068 [Test worker] INFO  (TopSecretSplitTest.java:32) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T20:40:29,271 [Test worker] INFO  (TopSecretSplitTest.java:49) - Respuesta Esperada: [No hay suficiente informaci贸n para obtener la posici贸n de la nave y su mensaje.]
+2022-08-04T20:40:29,271 [Test worker] INFO  (TopSecretSplitTest.java:50) - Respuesta EsperadaUtf: [No hay suficiente informaci????n para obtener la posici????n de la nave y su mensaje.]
+2022-08-04T20:40:29,271 [Test worker] INFO  (TopSecretSplitTest.java:57) - Fin obtener ubicacion y mensaje de la nave
+2022-08-04T20:44:16,232 [Test worker] INFO  (TopSecretSplitTest.java:22) - Inicalizando Setup
+2022-08-04T20:44:16,581 [Test worker] INFO  (TopSecretSplitTest.java:27) - Setup Exitoso
+2022-08-04T20:44:16,586 [Test worker] INFO  (TopSecretSplitTest.java:32) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T20:44:17,926 [Test worker] INFO  (TopSecretSplitTest.java:49) - Respuesta Esperada: [No hay suficiente informaci贸n para obtener la posici贸n de la nave y su mensaje.]
+2022-08-04T20:44:17,926 [Test worker] INFO  (TopSecretSplitTest.java:50) - Respuesta EsperadaUtf: [No hay suficiente informaci贸n para obtener la posici贸n de la nave y su mensaje.]
+2022-08-04T20:44:17,927 [Test worker] INFO  (TopSecretSplitTest.java:57) - Fin obtener ubicacion y mensaje de la nave
+2022-08-04T20:45:41,694 [Test worker] INFO  (TopSecretSplitTest.java:22) - Inicalizando Setup
+2022-08-04T20:45:42,034 [Test worker] INFO  (TopSecretSplitTest.java:27) - Setup Exitoso
+2022-08-04T20:45:42,040 [Test worker] INFO  (TopSecretSplitTest.java:32) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T20:45:43,339 [Test worker] INFO  (TopSecretSplitTest.java:49) - Respuesta Esperada: [No hay suficiente informaci髇 para obtener la posici髇 de la nave y su mensaje.]
+2022-08-04T20:45:43,340 [Test worker] INFO  (TopSecretSplitTest.java:50) - Respuesta EsperadaUtf: [No hay suficiente informaci髇 para obtener la posici髇 de la nave y su mensaje.]
+2022-08-04T20:45:43,340 [Test worker] INFO  (TopSecretSplitTest.java:57) - Fin obtener ubicacion y mensaje de la nave
+2022-08-04T20:47:23,097 [Test worker] INFO  (TopSecretSplitTest.java:22) - Inicalizando Setup
+2022-08-04T20:47:23,461 [Test worker] INFO  (TopSecretSplitTest.java:27) - Setup Exitoso
+2022-08-04T20:47:23,468 [Test worker] INFO  (TopSecretSplitTest.java:32) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T20:47:24,842 [Test worker] INFO  (TopSecretSplitTest.java:49) - Respuesta Esperada: [No hay suficiente informaci髇 para obtener la posici髇 de la nave y su mensaje.]
+2022-08-04T20:47:24,842 [Test worker] INFO  (TopSecretSplitTest.java:50) - Respuesta EsperadaUtf: [No hay suficiente informaci髇 para obtener la posici髇 de la nave y su mensaje.]
+2022-08-04T20:47:24,844 [Test worker] INFO  (TopSecretSplitTest.java:57) - Fin obtener ubicacion y mensaje de la nave
+2022-08-04T20:53:00,579 [Test worker] INFO  (TopSecretSplitTest.java:22) - Inicalizando Setup
+2022-08-04T20:53:00,931 [Test worker] INFO  (TopSecretSplitTest.java:27) - Setup Exitoso
+2022-08-04T20:53:00,937 [Test worker] INFO  (TopSecretSplitTest.java:32) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T20:53:56,595 [Test worker] INFO  (TopSecretSplitTest.java:22) - Inicalizando Setup
+2022-08-04T20:53:56,950 [Test worker] INFO  (TopSecretSplitTest.java:27) - Setup Exitoso
+2022-08-04T20:53:56,956 [Test worker] INFO  (TopSecretSplitTest.java:32) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T20:55:06,232 [Test worker] INFO  (TopSecretSplitTest.java:22) - Inicalizando Setup
+2022-08-04T20:55:06,581 [Test worker] INFO  (TopSecretSplitTest.java:27) - Setup Exitoso
+2022-08-04T20:55:06,586 [Test worker] INFO  (TopSecretSplitTest.java:32) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T20:55:32,365 [Test worker] INFO  (TopSecretSplitTest.java:22) - Inicalizando Setup
+2022-08-04T20:55:32,707 [Test worker] INFO  (TopSecretSplitTest.java:27) - Setup Exitoso
+2022-08-04T20:55:32,713 [Test worker] INFO  (TopSecretSplitTest.java:32) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T21:30:57,246 [Test worker] INFO  (TopSecretSplitTest.java:21) - Inicalizando Setup
+2022-08-04T21:30:57,608 [Test worker] INFO  (TopSecretSplitTest.java:26) - Setup Exitoso
+2022-08-04T21:30:57,614 [Test worker] INFO  (TopSecretSplitTest.java:31) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T21:32:28,396 [Test worker] INFO  (TopSecretSplitTest.java:21) - Inicalizando Setup
+2022-08-04T21:32:28,744 [Test worker] INFO  (TopSecretSplitTest.java:26) - Setup Exitoso
+2022-08-04T21:32:28,749 [Test worker] INFO  (TopSecretSplitTest.java:31) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T21:32:29,992 [Test worker] INFO  (TopSecretSplitTest.java:42) - Fin obtener ubicacion y mensaje de la nave
+2022-08-04T21:33:07,769 [Test worker] INFO  (TopSecretSplitTest.java:21) - Inicalizando Setup
+2022-08-04T21:33:08,134 [Test worker] INFO  (TopSecretSplitTest.java:26) - Setup Exitoso
+2022-08-04T21:33:08,140 [Test worker] INFO  (TopSecretSplitTest.java:31) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T21:33:20,348 [Test worker] INFO  (TopSecretSplitTest.java:21) - Inicalizando Setup
+2022-08-04T21:33:20,699 [Test worker] INFO  (TopSecretSplitTest.java:26) - Setup Exitoso
+2022-08-04T21:33:20,705 [Test worker] INFO  (TopSecretSplitTest.java:31) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T21:33:21,912 [Test worker] INFO  (TopSecretSplitTest.java:42) - Fin obtener ubicacion y mensaje de la nave
+2022-08-04T22:09:22,812 [Test worker] INFO  (TopSecretSplitTest.java:21) - Inicalizando Setup
+2022-08-04T22:09:23,166 [Test worker] INFO  (TopSecretSplitTest.java:26) - Setup Exitoso
+2022-08-04T22:09:23,172 [Test worker] INFO  (TopSecretSplitTest.java:47) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T22:09:24,686 [Test worker] INFO  (TopSecretSplitTest.java:60) - Fin obtener ubicacion y mensaje de la nave
+2022-08-04T22:58:45,804 [Test worker] INFO  (TopSecretSplitTest.java:21) - Inicalizando Setup
+2022-08-04T22:58:46,151 [Test worker] INFO  (TopSecretSplitTest.java:26) - Setup Exitoso
+2022-08-04T22:58:46,158 [Test worker] INFO  (TopSecretSplitTest.java:31) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T23:03:05,610 [Test worker] INFO  (TopSecretSplitTest.java:21) - Inicalizando Setup
+2022-08-04T23:03:05,953 [Test worker] INFO  (TopSecretSplitTest.java:26) - Setup Exitoso
+2022-08-04T23:03:05,958 [Test worker] INFO  (TopSecretSplitTest.java:31) - Enviando peticion GET para obtener ubicacion y mensaje de la nave
+2022-08-04T23:03:07,088 [Test worker] INFO  (TopSecretSplitTest.java:42) - Fin obtener ubicacion y mensaje de la nave
